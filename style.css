@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+
+}
+body {
+    background-color: black;
+    color: greenyellow;
+    width: 400px;
+    margin: auto;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+p {font-size: 2rem;}
+
+input{
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+
+label {
+    color: green;
+    font-size: 1.7rem;
+    margin: 20px,20px,20px,30px;
+}
